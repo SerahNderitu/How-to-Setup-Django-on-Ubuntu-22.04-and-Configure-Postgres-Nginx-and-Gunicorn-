@@ -14,7 +14,7 @@ In this article, you will set up a PostgreSQL database to replace the default SQ
 
 Last but not least, you'll configure Nginx to act as a reverse proxy to Gunicorn, enabling you to use the application server's security and performance advantages.
 
-Please note, that this guide requires you to have an Ubuntu 22.04 server configured, a non-root user with sudo capabilities set up, and a firewall turned on in order to finish this setup. If you haven’t set up your server yet. Use our step-by-step guide on how to set up a server on Ubuntu 22.04.
+Please note, that this guide requires you to have an Ubuntu 22.04 server configured, a non-root user with sudo capabilities set up, and a firewall turned on in order to finish this setup. If you haven’t set up your server yet. Use our [step-by-step guide on how to set up a server on Ubuntu 22.04](https://github.com/SerahNderitu/Step-by-Step-Guide-on-How-to-Setup-Server-with-Ubuntu-22.04).
 
 
 # Step 1: Update System Packages
